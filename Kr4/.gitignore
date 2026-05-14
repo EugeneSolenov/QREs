@@ -1,0 +1,11 @@
+.env
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+products.db
+
+# Created locally by the Python launcher on this machine while enabling pip.
+Include/
+Lib/
+Scripts/
